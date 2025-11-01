@@ -1,1 +1,41 @@
+disable bluetooth
+get a creative usb audio device that does bluetooth. 
+setup pf to block all incoming connections.
+use browsers that use unveil pledge. 
+depending on your level of parinoia create different users.
+install tor and torbrowser. configure to route though it. 
 
+$find /usr/ports/ -name pledge\* 
+
+/usr/ports/www/chromium/files/pledge.utility_audio
+/usr/ports/www/chromium/files/pledge.utility_video
+/usr/ports/www/chromium/files/pledge.main
+/usr/ports/www/chromium/files/pledge.utility_network
+/usr/ports/www/firefox-esr/files/pledge.main
+/usr/ports/www/firefox-esr/files/pledge.rdd
+/usr/ports/www/firefox-esr/files/pledge.socket
+/usr/ports/www/firefox-esr/files/pledge.gpu
+/usr/ports/www/firefox-esr/files/pledge.utility
+/usr/ports/www/firefox-esr/files/pledge.content
+/usr/ports/www/tor-browser/browser/files/pledge.gpu
+/usr/ports/www/tor-browser/browser/files/pledge.rdd
+/usr/ports/www/tor-browser/browser/files/pledge.socket
+/usr/ports/www/tor-browser/browser/files/pledge.main
+/usr/ports/www/tor-browser/browser/files/pledge.content
+/usr/ports/www/tor-browser/browser/files/pledge.utility
+/usr/ports/www/mozilla-firefox/files/pledge.socket
+/usr/ports/www/mozilla-firefox/files/pledge.utility
+/usr/ports/www/mozilla-firefox/files/pledge.content
+/usr/ports/www/mozilla-firefox/files/pledge.rdd
+/usr/ports/www/mozilla-firefox/files/pledge.gpu
+/usr/ports/www/mozilla-firefox/files/pledge.main
+/usr/ports/www/ungoogled-chromium/files/pledge.main
+/usr/ports/www/ungoogled-chromium/files/pledge.utility_audio
+/usr/ports/www/ungoogled-chromium/files/pledge.utility_network
+/usr/ports/www/ungoogled-chromium/files/pledge.utility_video
+/usr/ports/www/iridium/files/pledge.utility_video
+/usr/ports/www/iridium/files/pledge.main
+/usr/ports/www/iridium/files/pledge.utility_network
+/usr/ports/www/iridium/files/pledge.utility_audio
+/usr/ports/pobj/node-22.18.0/node-v22.18.0/deps/npm/node_modules/node-pledge/pledge.cc
+/usr/ports/pobj/node-22.18.0/node-v22.18.0/deps/npm/node_modules/node-pledge/pledge_10x.cc

@@ -1,7 +1,7 @@
-Telegram X 26 - <br>
+Telegram X 26 -<br>
 https://pb-appstore.netlify.app/apps/telegram/<br><br>
 
-Fennec Browser -<br><br>
+Fennec Browser -<br><
 https://pb-appstore.netlify.app/apps/fennec/<br><br>
 Opera Browser - <br><br>
 

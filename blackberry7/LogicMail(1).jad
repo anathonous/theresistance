@@ -1,0 +1,43 @@
+RIM-MIDlet-Flags-2: 3
+RIM-MIDlet-Flags-1: 0
+MIDlet-Name: LogicMail
+MicroEdition-Configuration: CLDC-1.1
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_xml,net_rim_xml_org,net_rim_os,net_rim_bb_browser_field2_api,net_rim_bbapi_browser,net_rim_bb_browser_field_api,net_rim_pdap,net_rim_crypto,net_rim_networkapi,net_rim_bbapi_messagelist,net_rim_ui_api
+RIM-COD-Module-Name: LogicMail
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Derek Konigsberg
+MIDlet-2: ,,-build:81 -release autostartup
+MIDlet-1: LogicMail,logicmail.png,-build:81 -release
+Manifest-Version: 1.0
+MIDlet-Version: 2.2.0.81
+RIM-COD-Creation-Time: 1351310754
+RIM-COD-URL: LogicMail.cod
+RIM-COD-SHA1:  0f c9 7c 82 cb 91 18 c4 83 89 66 7e be 73 b9 46 30 8d ae 52
+RIM-COD-Size: 65476
+RIM-COD-URL-1: LogicMail-1.cod
+RIM-COD-SHA1-1:  98 56 60 14 4f 2f f6 26 a6 37 fc 18 84 8a 18 f2 ce 71 a7 8c
+RIM-COD-Size-1: 64548
+RIM-COD-URL-2: LogicMail-2.cod
+RIM-COD-SHA1-2:  bf 5d 2a a6 ec dd 32 05 da b7 be 6f 1d d9 15 6b ec 7b de 6e
+RIM-COD-Size-2: 64696
+RIM-COD-URL-3: LogicMail-3.cod
+RIM-COD-SHA1-3:  3a e6 c3 6a 81 c5 a6 13 fe 74 60 04 95 d6 96 87 91 35 09 13
+RIM-COD-Size-3: 65204
+RIM-COD-URL-4: LogicMail-4.cod
+RIM-COD-SHA1-4:  e4 01 62 3f 86 83 2e 6e ef 0a d6 f7 2d 86 ec d9 2a ec 95 be
+RIM-COD-Size-4: 78712
+RIM-COD-URL-5: LogicMail-5.cod
+RIM-COD-SHA1-5:  f1 70 be 0f a5 8f c7 76 b5 72 0a d4 f3 58 7d 4f 33 19 ff 7b
+RIM-COD-Size-5: 90788
+RIM-COD-URL-6: LogicMail-6.cod
+RIM-COD-SHA1-6:  8a 6f aa 85 a7 b4 8f 71 ec 69 a8 12 b9 7f cf 06 f9 6c 95 24
+RIM-COD-Size-6: 87564
+RIM-COD-URL-7: LogicMail-7.cod
+RIM-COD-SHA1-7:  3c 7e 49 47 0f 2f a1 8f 84 1a 75 7a bc 47 73 8c 17 b3 5e 46
+RIM-COD-Size-7: 80572
+RIM-COD-URL-8: LogicMail-8.cod
+RIM-COD-SHA1-8:  5c b4 1a 5f e1 77 90 ee d6 52 6c 70 4f db 41 de d1 f2 45 b4
+RIM-COD-Size-8: 78300
+RIM-COD-URL-9: LogicMail-9.cod
+RIM-COD-SHA1-9:  04 55 25 33 5c c4 47 9f f6 2c 62 0e c5 59 3a e6 5e 03 ab 4f
+RIM-COD-Size-9: 27400

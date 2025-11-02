@@ -2,7 +2,7 @@ Telegram X 26 - <br>
 https://pb-appstore.netlify.app/apps/telegram/<br><br>
 
 Fennec Browser -<br><br>
-
+https://pb-appstore.netlify.app/apps/fennec/
 Opera Browser - <br><br>
 
 Star Player - <br><br>

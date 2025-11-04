@@ -9,3 +9,7 @@ Star Player - <br><br>
 
 At minimum you will be able to check your email, listen to mp3s/flacs/aac and streaming online radio, send instant messages and browse the web.
 Update your ssl root certs too. You are free to install other apps as well.
+
+Darcys Tools. (for uploading bar files)
+https://www.dropbox.com/scl/fi/h84jal5ffsdv0jtsl3jpq/DBBT3.1.0.1.rar?rlkey=jth77d1gbhz1jgv4qpf4br8an&e=1&dl=0
+You can find bar files as archives blackberry 10 apps online.

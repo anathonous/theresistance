@@ -8,7 +8,8 @@ Opera Browser - <br><br>
 Star Player - <br><br>
 
 SkyTubeLegacy -<br><br>
-https://github.com/SkyTubeTeam/SkyTubeLegacy/releases/download/v2.996/SkyTubeLegacy-Legacy-Extra-2.996.apk
+https://github.com/SkyTubeTeam/SkyTubeLegacy/releases/download/v2.996/SkyTubeLegacy-Legacy-Extra-2.996.apk<br><br><br>
+
 At minimum you will be able to check your email, listen to mp3s/flacs/aac and streaming online radio, send instant messages and browse the web.
 Update your ssl root certs too. You are free to install other apps as well.<br><br>
 

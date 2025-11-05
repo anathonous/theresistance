@@ -7,3 +7,6 @@ peertube
 
 invidious for youtube
 theres one for music, will update later.
+
+https://github.com/tuskyapp/Tusky/releases/tag/v1.5.2
+Tusky 1.5.2 will work on certain instances on BB10 only. TLS/SSL related.

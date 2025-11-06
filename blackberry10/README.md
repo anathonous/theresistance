@@ -7,14 +7,12 @@ Opera Browser - <br><br>
 
 Star Player - <br><br>
 
-SkyTubeLegacy -<br><br>
-https://github.com/SkyTubeTeam/SkyTubeLegacy/releases/download/v2.996/SkyTubeLegacy-Legacy-Extra-2.996.apk<br><br><br>
-https://github.com/tuskyapp/Tusky/releases/tag/v1.5.2<br>
-Tusky 1.5.2 will work on certain instances on BB10 only. TLS/SSL related.<br><br>
-At minimum you will be able to check your email, listen to mp3s/flacs/aac and streaming online radio, send instant messages and browse the web.
-Update your ssl root certs too. You are free to install other apps as well.<br><br>
+SkyTubeLegacy Youtube<br>
+https://github.com/SkyTubeTeam/SkyTubeLegacy/releases/download/v2.996/SkyTubeLegacy-Legacy-Extra-2.996.apk<br>
+Tusky 1.5.2 will work on certain instances on BB10 only. TLS/SSL related.<br>
+[https://github.com/tuskyapp/Tusky/releases/tag/v1.5.2](https://github.com/tuskyapp/Tusky/releases/download/v1.5.2/tusky-v1.5.2.apk)<br>
 Yaxim XMPP<br>
-https://yaxim.org/yax.im/<br>
+[https://yaxim.org/yax.im/](https://yaxim.org/archive/yaxim-current.apk)<br>
 Coversations XMPP<br>
 https://codeberg.org/iNPUTmice/Conversations<br><br>
 
